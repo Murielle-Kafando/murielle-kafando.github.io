@@ -7,17 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year medical student at **Joseph KI-ZERBO University** in Ouagadougou, Burkina Faso, with clinical training across multiple specialties including pulmonology, pediatrics, surgery, obstetrics and gynecology, and psychiatry.
+I am a final-year medical student completing my Doctor of Medicine (MD) degree at **Joseph KI-ZERBO University** in Ouagadougou, Burkina Faso. My clinical training spans multiple specialties, including medical pediatrics, pediatric surgery, obstetrics and gynecology, neurology, neurosurgery, visceral surgery, and pulmonology.
 
-My clinical experience has been developed in high-demand hospital environments, where I have been involved in patient follow-up, case discussions, and collaborative care. I am currently completing my final-year hospital placement in the Pulmonology Department at Yalgado Ouédraogo University Hospital, where I also support junior medical students during clinical activities.
+I am currently undertaking my final-year hospital placement in the Pulmonology Department at **Centre Hospitalier Universitaire (CHU) Tengandogo**, where I contribute to patient follow-up, participate in diagnostic discussions, and support clinical management under supervision. In parallel, I mentor junior medical students (2nd to 4th year) during clinical activities, reinforcing my commitment to collaborative learning and medical education.
 
-My academic interests lie at the intersection of **public health, mental health, and molecular biology**. I am particularly interested in understanding how biological mechanisms of disease interact with population-level factors such as access to care, environmental conditions, and social instability.
+My academic and clinical interests focus on the intersection of **mental health, public health, and biological mechanisms of disease**. I am particularly interested in how crisis contexts—such as conflict and instability—shape both psychological outcomes and access to care, and how these factors can be integrated into more effective and context-aware clinical practices.
 
-My medical thesis, titled *“Approche thérapeutique et évolution clinique de l’état de stress post-traumatique chez les militaires suivis au camp Sangoulé Lamizana”*, focuses on the management and clinical progression of post-traumatic stress disorder (PTSD) among military personnel. This work reflects my broader interest in trauma-related mental health, resilience, and the long-term impact of crisis environments on psychological and physiological health.
+My medical thesis, titled *“Therapeutic approach and clinical progression of post-traumatic stress disorder among military personnel followed at Camp Sangoulé Lamizana”*, explores the management and evolution of PTSD in a military population. This work reflects my broader interest in trauma-related mental health, resilience, and the long-term clinical implications of exposure to high-stress environments.
 
-In parallel with my clinical training, I engage in structured **clinical case analysis and medical writing**, with the goal of strengthening my diagnostic reasoning and contributing to knowledge sharing in medicine.
+Alongside my clinical training, I regularly engage in **structured clinical case write-ups**, analyzing diagnostic reasoning, differential diagnoses, and therapeutic strategies across specialties. I am currently developing a digital clinical portfolio to document anonymized case analyses and support continuous medical learning.
 
-I am currently seeking opportunities to further develop my clinical and academic training, including **clinical observerships, research experiences, and postgraduate studies** in public health or biomedical sciences.
+I have also participated in academic conferences and continuing education initiatives, including discussions on sleep apnea in Burkina Faso and international colloquia on infectious diseases in tropical settings.
+
+I am seeking opportunities to further develop my clinical and academic training, including **clinical observerships, research experiences, and postgraduate studies**, with a long-term interest in specialization in **public health or microbiology**.
 
 ---
 

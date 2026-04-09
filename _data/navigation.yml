@@ -24,21 +24,21 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
   
-  - title: "CV"
-    url: /cv/
+  - title: "CV (EN)"
+    url: /files/cv_en.pdf
+
+  - title: "CV (FR)"
+    url: /files/cv_fr.pdf
 
   - title: "Clinical Portfolio"
     url: /clinical-portfolio/
 
-  - title: "Writing"
+  - title: "Essays"
     url: /writing/
 
   - title: "Conferences"  
     url: /conferences/
 
-  - title: "Contact"
-    url: /contact/
-    
   # - title: "CV"
   #   url: /cv-json/
     
