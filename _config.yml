@@ -23,7 +23,7 @@ repository               : "Murielle-Kafando/murielle-kafando.github.io" # The G
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "murielle_profile2.jpg" # filename of profile picture placed in /images/ (optional)
+  avatar           : "murielle_profile2.png" # filename of profile picture placed in /images/ (optional)
   name             : "Wendlassida Murielle S. Kafando"
   pronouns         : # example: "she/her"  
   bio              : "Final-year medical student with interests in public health and molecular biology"
